@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>FlowIn Updates</title>
+    <link>https://raw.githubusercontent.com/Xin-Jing/flowin/main/appcast.xml</link>
+    <description>FlowIn app updates</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.0</title>
+      <description><![CDATA[
+        <ul>
+          <li>Rebranded to FlowIn</li>
+          <li>Improved permission prompts for Screen Context</li>
+          <li>Fixed reliability issues (secure input, sleep/wake, App Nap)</li>
+          <li>Better suggestion display in Outlook and WKWebView apps</li>
+          <li>Smart ghost text persistence on space and delete</li>
+          <li>Clipboard session management for rapid Tab acceptance</li>
+          <li>Redesigned toolbar with collapsible FlowIn widget</li>
+          <li>Timed disable options (15m, 60m, indefinitely)</li>
+          <li>Auto-update support via Sparkle</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 02 Apr 2026 00:00:00 +0000</pubDate>
+      <sparkle:version>1.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Xin-Jing/flowin/releases/download/v1.0.0/FlowIn-1.0.0.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="4ZcaoCStMjwvAQXo1nSPv3oRRAvEnFYaFx4o/EVEdLK2uJ0sWWqXy+HJdj3nsGu5TFbIJBCVepa+UMNn0ceNCQ=="
+                 length="4546534" />
+    </item>
+  </channel>
+</rss>
