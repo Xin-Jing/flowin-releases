@@ -21,8 +21,8 @@
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/Xin-Jing/flowin-releases/releases/download/v1.0.2/FlowIn-1.0.2.dmg"
                  type="application/octet-stream"
-                 sparkle:edSignature="wBHvkHV9OZrffL5eNCmVsNLRWafIIuPIDYPb7Vvq85chX6OKjwvfswC2RKdGiAR9gINr2RQTzBuNVQiql6lTAw=="
-                 length="4567967" />
+                 sparkle:edSignature="QUpJ5bgDuhWf67XeRsA/fHNXR5MhmBPif+f3v3OasLXtDZsnce4j8/5sryct4sljnpqCdMcTCCTeBLiQ035MDA=="
+                 length="4568062" />
     </item>
     <item>
       <title>Version 1.0.1</title>
