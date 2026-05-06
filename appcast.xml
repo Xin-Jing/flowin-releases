@@ -6,6 +6,26 @@
     <description>FlowIn app updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.5</title>
+      <description><![CDATA[
+        <ul>
+          <li>Suggestions stay aligned even after pasting, deleting, or inserting ChatGPT/Telegram conversation snippets</li>
+          <li>Ghost text now stays put on the active Space and renders over app launchers (Raycast, Spotlight, etc.) instead of disappearing</li>
+          <li>Fewer false-fire suggestions: skip when caret has no preceding text after a click, skip when prefix ends with "?", arrow keys no longer trigger inference, selection mode hides ghost text</li>
+          <li>Onboarding step 2 reveal animation + softer pill buttons</li>
+          <li>DMG now uses drag-to-install layout with an arrow guide</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 06 May 2026 04:03:00 +0000</pubDate>
+      <sparkle:version>1.0.5</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Xin-Jing/flowin-releases/releases/download/v1.0.5/FlowIn-1.0.5.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="W3pUdo+nm2SfNjqaOuAVkxUxOnKbpfPGJsajOcszoRqECH8wFd1qEkV/GtaWFULaN/DsaCCn5+gmpnJkTWijAw=="
+                 length="4199022" />
+    </item>
+    <item>
       <title>Version 1.0.4</title>
       <description><![CDATA[
         <ul>
