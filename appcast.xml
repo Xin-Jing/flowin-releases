@@ -6,6 +6,27 @@
     <description>FlowIn app updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.6.1</title>
+      <description><![CDATA[
+        <ul>
+          <li>Significantly improved Fast model performance, now it is the default model</li>
+          <li>New onboarding step: an "About you" profile that tailors suggestions to how you write</li>
+          <li>Suggestions now default to Phrase length</li>
+          <li>Better Chinese and Japanese input: accept suggestions one character at a time, with smoother overlap handling for non-Latin scripts</li>
+          <li>Longer suggestions can extend one line below the input box</li>
+          <li>Fixes: steadier insertion in Safari, accurate caret alignment in terminals, and fewer duplicated characters</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sat, 30 May 2026 07:03:34 +0000</pubDate>
+      <sparkle:version>1.0.6.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.6.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Xin-Jing/flowin-releases/releases/download/v1.0.6.1/FlowIn-1.0.6.1.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="3nand1H3u2Pw8MMvW2qTUuzhEI3RnvHXJbZgCaprTfMBB7+k6KDkSfyP51VtMNLeYPAZTOnzFDL4cI0YU7ZTCA=="
+                 length="4265915" />
+    </item>
+    <item>
       <title>Version 1.0.6</title>
       <description><![CDATA[
         <ul>
