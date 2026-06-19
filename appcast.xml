@@ -6,6 +6,26 @@
     <description>FlowIn app updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.0.7</title>
+      <description><![CDATA[
+        <p>First of all, thanks for everyone's support and feedback. Your enthusiasm for FlowIn is something I really didn't expect, and I'm grateful that FlowIn is helping with your daily writing, even in a small way.</p>
+        <p>Our goal is really to make it much easier to express your intent, and we've been working day and night to make that happen. This update has a few major features I'm excited to share.</p>
+        <ul>
+          <li><b>Draft a full reply anywhere.</b> Tap the right Option (⌥) key in any app, pick a direction, and FlowIn writes the whole reply in your voice.</li>
+          <li><b>A much faster, smoother local model.</b></li>
+          <li><b>Updated shortcuts.</b> Tab accepts word by word, the backtick key (`) accepts the whole suggestion, and right-Command + ↑/↓ cycles alternatives.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 19 Jun 2026 09:56:50 +0000</pubDate>
+      <sparkle:version>1.0.7</sparkle:version>
+      <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Xin-Jing/flowin-releases/releases/download/v1.0.7/FlowIn-1.0.7.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="D4a30nSMGpCJBahhk7nnkEGER7Voqu4Xza+A/HO5KdWZkrHOkqnkanGzofwSE0Tqme6+jY0gc9RgyEe3T3RlAQ=="
+                 length="4400378" />
+    </item>
+    <item>
       <title>Version 1.0.6.1</title>
       <description><![CDATA[
         <ul>
