@@ -6,6 +6,28 @@
     <description>FlowIn app updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.0</title>
+      <description><![CDATA[
+        <p>First, thank you to everyone testing FlowIn and sending feedback. This is our biggest update yet.</p>
+        <ul>
+          <li><b>Word Alternatives.</b> While a suggestion is showing, a small menu appears under the ghost text with other ways to continue. Pick with arrow keys, digit keys, or Tab, and FlowIn continues from your choice.</li>
+          <li><b>Flow Draft.</b> Our reply feature, now with a name and more power: tap the right Option key to draft a reply, or select any text to rewrite it. Drafts are generated in the cloud, and your content is never stored.</li>
+          <li><b>Autocomplete now runs fully on your Mac.</b> Suggestions come from the on-device model: fast, private, and works offline. (If you previously used a cloud model for autocomplete, FlowIn switches to the on-device model automatically.)</li>
+          <li><b>A new guided setup.</b> Download the on-device model, learn the shortcuts, and try Flow Draft before you start writing.</li>
+          <li><b>Plans and a free trial.</b> New installs start a 14-day Pro trial with unlimited autocomplete. Afterwards FlowIn continues on the free plan, and you can upgrade anytime in Settings.</li>
+          <li><b>Quality of life.</b> Usage dashboard in Settings, words-saved count in the menu bar, launch at login, timed disable, Join Discord in the menu bar, and dozens of reliability fixes.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Fri, 17 Jul 2026 02:51:53 +0000</pubDate>
+      <sparkle:version>1.1.0</sparkle:version>
+      <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Xin-Jing/flowin-releases/releases/download/v1.1.0/FlowIn-1.1.0.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="sXXXiJpfAlXbLf7I5bxpZCLcx85FapZB5TbsXnqbNezt6UhZpVw2CuMTuAWyuHS/ykQnrwqRcf92Q/67atqoDg=="
+                 length="4585263" />
+    </item>
+    <item>
       <title>Version 1.0.7</title>
       <description><![CDATA[
         <p>First of all, thanks for everyone's support and feedback. Your enthusiasm for FlowIn is something I really didn't expect, and I'm grateful that FlowIn is helping with your daily writing, even in a small way.</p>
