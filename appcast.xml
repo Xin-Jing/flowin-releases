@@ -6,6 +6,27 @@
     <description>FlowIn app updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.0.5</title>
+      <description><![CDATA[
+        <p>Thank you to everyone who has been sending feedback through Discord, email, WeChat, etc. Much of this update came straight from it.</p>
+        <ul>
+          <li><b>More apps.</b> FlowIn now works in Cursor and Obsidian, and Claude Code sessions are recognized in iTerm2 and Otty, not just Terminal. In Cursor, suggestions stay out of the code editor and the integrated terminal.</li>
+          <li><b>Better in terminals.</b> Accepting is much faster over a long scrollback, and suggestions line up with the cursor. At a plain shell prompt FlowIn now stays quiet, so Tab still runs your shell's own completion.</li>
+          <li><b>Smarter word units.</b> Tab accepts one segment at a time in compounds like well-known and paths like src/main.swift, and stops flush before punctuation.</li>
+          <li><b>A clearer first run.</b> A model download that outlives setup now shows a progress card, a percentage in the menu bar, and a retry if it fails.</li>
+          <li><b>Various improvements.</b> Settings follows light mode and supports Cmd+Z, the menu bar gains an Upgrade entry and tells you when the daily free limit is reached, suggestions no longer blink while you type, the Word Alternatives menu closes when you switch desktops, and Notion no longer joins words together.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Mon, 27 Jul 2026 02:48:13 +0000</pubDate>
+      <sparkle:version>1.1.0.5</sparkle:version>
+      <sparkle:shortVersionString>1.1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Xin-Jing/flowin-releases/releases/download/v1.1.0.5/FlowIn-1.1.0.5.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="VxPG/yW62QbzpVTbEWQe5+baCqeyglBfTrR5aZguS2bZB2taapRIZhs3tTvkZVDUh0cwp0SZiigcaWytPQCwCQ=="
+                 length="4615252" />
+    </item>
+    <item>
       <title>Version 1.1.0</title>
       <description><![CDATA[
         <p>First, thank you to everyone testing FlowIn and sending feedback. This is our biggest update yet.</p>
