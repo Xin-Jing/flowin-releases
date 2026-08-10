@@ -8,13 +8,14 @@
     <item>
       <title>Version 1.1.0.6</title>
       <description><![CDATA[
-        <p>Thank you to everyone sending feedback. The permission fix below came straight from a Reddit comment.</p>
+        <p>Thank you to everyone sending feedback. I read every single one, and much of this update came straight from it. What hasn't made it in yet is coming in the next releases.</p>
         <ul>
-          <li><b>Chinese and Japanese in terminals.</b> FlowIn now understands input method composition: ghost text hides while you type pinyin or romaji, and the suggestion appears right when the text commits. CJK suggestions sit exactly on the terminal grid, iTerm2 no longer shows phantom spaces between characters, and the cursor position is right on CJK lines in Otty.</li>
-          <li><b>Permission self-heal.</b> macOS can silently invalidate FlowIn's Accessibility permission after an update, while System Settings still shows it enabled. FlowIn now detects this at launch, after wake, and within a minute mid-session, walks you through the fix, and reconnects automatically.</li>
-          <li><b>Flow Draft understands WeChat drafts.</b> If you have already typed part of a message, a right Option tap now refines your draft instead of replying to it, and rewrite options lead with Humanize.</li>
-          <li><b>New controls.</b> Auto-show for Word Alternatives is now a switch in Settings, off by default; the shortcut still opens the menu anytime. Clipboard Context gets its own toggle, and Screen Context flips with a switch right in the menu bar.</li>
-          <li><b>Fixes.</b> Suggestions land at the cursor on a display positioned left of your main one, the alternatives menu stays quiet in CJK text and right after numbers, and hidden overlay panels no longer intercept clicks.</li>
+          <li><b>No more invisible click traps.</b> A hidden FlowIn panel could swallow clicks in one spot of the screen and turn the cursor into a pointing hand. Panels now pass every click straight through to the app underneath.</li>
+          <li><b>Chinese and Japanese in terminals.</b> Ghost text hides while you type pinyin or romaji and appears the moment the text commits. Suggestions sit exactly on the terminal grid, with no drift on accept, no phantom spaces in iTerm2, and a correct cursor position in Otty.</li>
+          <li><b>Permission self-heal.</b> macOS can silently invalidate FlowIn's Accessibility permission after an update, even while System Settings shows it enabled. FlowIn now detects this within a minute, shows you the fix, and reconnects automatically.</li>
+          <li><b>Flow Draft understands WeChat drafts.</b> Tapping right Option with a half-typed message now refines your draft instead of replying to it, and Humanize comes first among the rewrite options.</li>
+          <li><b>New controls.</b> Word Alternatives auto-show is now a switch, off by default; the shortcut still works anytime. New toggles for Clipboard Context in Settings and Screen Context in the menu bar.</li>
+          <li><b>More fixes.</b> Suggestions land correctly on displays left of the main one, and the Word Alternatives menu stays quiet in CJK text and after numbers.</li>
         </ul>
       ]]></description>
       <pubDate>Mon, 10 Aug 2026 10:55:49 +0000</pubDate>
