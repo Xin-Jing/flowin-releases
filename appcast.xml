@@ -6,6 +6,27 @@
     <description>FlowIn app updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.1</title>
+      <description><![CDATA[
+        <p>Thank you again to everyone sending feedback. Most updates came from the issues you reported.</p>
+        <ul>
+          <li><b>Works in many more apps.</b> Apps built on Chrome's engine (Claude, Basecamp, Granola, and more) used to stay silent unless a screen reader or another assistive app happened to be running. FlowIn now wakes them itself, and re-wakes them if they doze off mid-session.</li>
+          <li><b>Improved reporting of Secure Input issues.</b> When a password manager or terminal leaves macOS Secure Input on and FlowIn goes quiet system-wide, it now notices immediately and tells you exactly which app to quit.</li>
+          <li><b>Flow Draft explains itself.</b> Tapping right Option in a chat FlowIn cannot see now shows what it needs with a one-click Turn On, instead of silently doing nothing. In chats where seeing the screen would clearly help, FlowIn offers once, with a Don't Show Again option.</li>
+          <li><b>The model download asks once.</b> Declining the 3.2 GB on-device model is now remembered. A small menu bar warning with a one-click download replaces the every-launch prompt.</li>
+          <li><b>Smoother onboarding.</b> New users can finish setup first and grant the Screen Recording permission later, with a clearer explanation of what it does and why it helps.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Sun, 16 Aug 2026 08:30:57 +0000</pubDate>
+      <sparkle:version>1.1.1</sparkle:version>
+      <sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Xin-Jing/flowin-releases/releases/download/v1.1.1/FlowIn-1.1.1.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="RnjmEmvRgu5DEp27PQNI63QHLW0kaGx9FpThkQktGvvQzJF8EC5acFg3Hm6VqYahz0gmaUOJ+r4Mlp5JpqyBBg=="
+                 length="4657897" />
+    </item>
+    <item>
       <title>Version 1.1.0.6</title>
       <description><![CDATA[
         <p>Thank you to everyone sending feedback. I read every single one, and much of this update came straight from it. What hasn't made it in yet is coming in the next releases.</p>
