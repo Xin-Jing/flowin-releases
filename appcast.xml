@@ -6,6 +6,28 @@
     <description>FlowIn app updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.2</title>
+      <description><![CDATA[
+        <p>Thank you again to everyone who wrote in. This release is mostly about the keyboard. You can now choose your own FlowIn shortcuts, and FlowIn no longer blocks the shortcuts you already use.</p>
+        <ul>
+          <li><b>Your shortcuts, your choice.</b> Change the Flow Draft trigger (right Option) and the accept keys (Tab, backtick) in Settings.</li>
+          <li><b>Your other shortcuts work again.</b> Cmd+Tab, Shift+Return, Force Quit and more no longer get swallowed while a FlowIn suggestion or card is showing.</li>
+          <li><b>Less typing lag.</b> FlowIn no longer holds up your keystrokes while it reads a slow app.</li>
+          <li><b>Markdown survives a rewrite in Obsidian.</b> Headings, bullets and blank lines stay intact, and only the block your cursor is in gets rewritten.</li>
+          <li><b>Onboarding improvements.</b> Model downloads resume after a quit, granting Screen Recording reliably brings FlowIn back, and a new tutorial shows you how to rewrite selected text.</li>
+          <li><b>Other improvements.</b> ChatGPT sidebars and side panes no longer leak into what FlowIn reads, and Settings &gt; Usage now breaks your savings down by app.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Wed, 26 Aug 2026 07:40:49 +0000</pubDate>
+      <sparkle:version>1.1.2</sparkle:version>
+      <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Xin-Jing/flowin-releases/releases/download/v1.1.2/FlowIn-1.1.2.dmg"
+                 type="application/octet-stream"
+                 sparkle:edSignature="cS00hfTIRAz+tClX/uo+EdgiqgZpS4zJEToxxgffDYPdtbzPrxNBmX5FiiGPK8N7TJt0p6rkGK9UUeBFjdvuDg=="
+                 length="4804288" />
+    </item>
+    <item>
       <title>Version 1.1.1</title>
       <description><![CDATA[
         <p>Thank you again to everyone sending feedback. Most updates came from the issues you reported.</p>
