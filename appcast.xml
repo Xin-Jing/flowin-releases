@@ -6,6 +6,27 @@
     <description>FlowIn app updates</description>
     <language>en</language>
     <item>
+      <title>Version 1.1.3</title>
+      <description><![CDATA[
+        <ul>
+          <li><b>Better suggestions on device.</b> The on-device model performs noticeably better in this release. Give it a try.</li>
+          <li><b>A lighter on-device model.</b> Light (1.0 GB) joins Standard, recommended if your Mac has 8 GB of memory. Switch anytime from the menu bar or Settings.</li>
+          <li><b>Suggestions in Arc, Dia, Firefox and Zen.</b> FlowIn used to stay silent in these browsers. Suggestions now appear in a card above the field you are typing in.</li>
+          <li><b>Your Pro plan stays Pro.</b> A Mac that lost its seat could silently fall back to Free. It now takes the seat back on its own.</li>
+          <li><b>A clearer setup.</b> It is easier to see when no model is installed, and to start the download from the menu bar or Settings.</li>
+          <li><b>FlowIn runs on macOS 13.3 and later.</b> Earlier builds quietly needed macOS 15. If FlowIn installed but never worked on your Mac, this release is the fix.</li>
+        </ul>
+      ]]></description>
+      <pubDate>Tue, 01 Sep 2026 03:27:43 GMT</pubDate>
+      <sparkle:version>1.1.3</sparkle:version>
+      <sparkle:shortVersionString>1.1.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.3</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/Xin-Jing/flowin-releases/releases/download/v1.1.3/FlowIn-1.1.3.dmg"
+                 sparkle:edSignature="F7DYT9sJhG5Zf6RhWM2bEz+Fwicz3e/lSH0FsOQSkYqpUjr/WfnDeL2HCdi7j0Y2a39n4RJJmYxSJmxOrzcjDw=="
+                 length="5317013"
+                 type="application/octet-stream"/>
+    </item>
+    <item>
       <title>Version 1.1.2</title>
       <description><![CDATA[
         <p>Thank you again to everyone who wrote in. This release is mostly about the keyboard. You can now choose your own FlowIn shortcuts, and FlowIn no longer blocks the shortcuts you already use.</p>
